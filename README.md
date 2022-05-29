@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hello, I'm Kolya <p align="left"><img src="https://cdn-icons-png.flaticon.com/64/6805/6805125.png"> </p>
 
 ###  🎓 &nbsp;  Student of the Kostroma Energy College [KET](http://spo-ket.ru/) 3 courses information technology
